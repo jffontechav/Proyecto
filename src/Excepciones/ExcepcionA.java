@@ -10,12 +10,8 @@ package Excepciones;
  * @author USUARIO
  */
 public class ExcepcionA extends Exception{
-
+//en proceso de construccion
     public ExcepcionA() {
         super();
-    }
-
-    public ExcepcionA(String string) {
-        super(string);
     }
 }
